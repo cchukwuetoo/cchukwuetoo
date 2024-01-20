@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cchukwuetoo
+- 👀 I’m interested in Backend engineering
+- 🌱 I’m currently learning javascript and typecript
+- 💞️ I’m looking to collaborate on Javascript projects
+- 📫 How to reach me ...
+- 😄 Pronouns: she/her
