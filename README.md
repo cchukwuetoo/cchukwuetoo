@@ -2,5 +2,5 @@
 - 👀 I’m interested in Backend engineering
 - 🌱 I’m currently learning javascript and typecript
 - 💞️ I’m looking to collaborate on Javascript projects
-- 📫 How to reach me ...
+- 📫 How to reach me : https://www.linkedin.com/in/chinyere-chukwuetoo-6712b1178/
 - 😄 Pronouns: she/her
